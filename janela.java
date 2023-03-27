@@ -22,6 +22,8 @@ public class janela extends JFrame {
                 g.setColor(Color.RED);
                 g.drawString("Eu seria um ótimo Score!", 5, 10);
             }
+
+            
         };
         
         super.getContentPane().add(tela);
